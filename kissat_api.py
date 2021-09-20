@@ -63,6 +63,8 @@ class CNF_Problem:
   def without(self, sol):
     clause = []
     for i in sol:
+      if sol[i] == 0:
+        ind = 
   
   def find_all_solutions(self):
     sols = []

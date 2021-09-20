@@ -1,1 +1,3 @@
-kissat_api.py
+kissat/build/*
+src/__pycache__/*
+src/kissat.exe

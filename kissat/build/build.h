@@ -1,5 +1,5 @@
-#define VERSION "1.0.3"
+#define VERSION "sc2020"
 #define COMPILER "gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0 -W -Wall -O3 -DNEMBEDDED -DNDEBUG -DNMETRICS -DNSTATISTICS"
 #define ID "unknown"
-#define BUILD "Mon Sep 20 16:28:24 UTC 2021 Linux 39475cbe267f 5.11.0-1018-gcp x86_64"
+#define BUILD "Mon Sep 20 21:16:31 UTC 2021 Linux 622d7a120bf8 5.11.0-1018-gcp x86_64"
 #define DIR "/home/runner/saturn/kissat/build"

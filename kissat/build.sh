@@ -6,7 +6,7 @@ then
 fi
 
 rm -rf build/*
-rm -f ../kissat.exe
+rm -f ../src/kissat.exe
 cd "build" || exit 1
 
 BUILD="`pwd`"
@@ -38,4 +38,4 @@ cp ../makefile.in makefile
 cd ..
 rm -f build
 make all
-cp build/kissat.exe ../kissat.exe
+cp build/kissat.exe ../src/kissat.exe

@@ -1,3 +1,4 @@
 kissat/build/*
 src/__pycache__/*
+src/lib/__pycache__/*
 src/kissat.exe
